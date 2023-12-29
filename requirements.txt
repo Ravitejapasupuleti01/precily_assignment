@@ -7,3 +7,4 @@ gensim
 scikit-learn
 keras
 flask
+tensorflow
