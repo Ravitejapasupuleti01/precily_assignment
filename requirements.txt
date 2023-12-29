@@ -4,6 +4,6 @@ pandas
 numpy
 nltk
 gensim
-sklearn
+scikit-learn
 keras
 flask
