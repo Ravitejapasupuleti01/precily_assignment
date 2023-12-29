@@ -1,0 +1,9 @@
+Flask
+Gunicorn
+pandas
+numpy
+nltk
+gensim
+sklearn
+keras
+flask
